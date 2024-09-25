@@ -1,0 +1,8 @@
+a {
+    color: blue; /* 设置链接为蓝色 */
+    text-decoration: none; /* 移除下划线 */
+}
+
+a:hover {
+    text-decoration: underline; /* 鼠标悬停时添加下划线 */
+}
