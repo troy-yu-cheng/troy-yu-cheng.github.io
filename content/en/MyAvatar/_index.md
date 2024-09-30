@@ -17,13 +17,12 @@ lastmod: 2024-09-24
 ---
 
 ### **Avatar Description**  (150words)
-My Avatar represents the idea of **(r)evolution**. 
+The tree, covered with various signs, symbolizes the growing limitations and prohibitions that arise in human societal development. These restrictions form the *Symbolic Order*, shaping what Lacan calls *the University Discourse*. (R)evolution happens within the tension between following and resisting this *Order*. 
 
 {{<figure src="/img/01 Avatar with Troy.jpg" title="My Avatar and I, at Idea Lab" width="450">}}
 
-The tree is made from wax sticks and tape, with various signs attached, each symbolizing limitations or prohibitions in human society. \
-According to Lacan's theory, these rules are created by the ruling class to maintain control, forming what he calls the *The University Discourse*. The signs define certain boundaries but also confine the concepts they represent. However, (r)evolution happens within the tension between following and resisting these rules. \
-The apple hanging from the tree symbolizes enlightenment—it falls from this *Tree of Taboos* and strikes the thinker below, represented by the bear reading a book. This bear symbolizes those who challenge the current symbolic order through learning. By exploring what hasn’t been named or defined (Lacan's *objet a*), they drive the process of (r)evolution, pushing the boundaries of knowledge and leading to new discoveries and progress.
+The apple hanging from the tree symbolizes enlightenment—it falls from this *Tree of Taboos* and strikes the thinker below, represented by the bear reading a book. This bear symbolizes those who challenge the current symbolic order through learning. By exploring what hasn’t been named or defined (Lacan's *objet a*), they drive the process of (r)evolution, pushing the boundaries of knowledge and leading to new discoveries and progress. \
+The Avatar's strength is its visualization of the restrictive environment where (r)evolution occurs and its symbolism of knowledge as key to change. However, it lacks representation of opposing forces or the concrete process of (r)evolution.
 
 
 
