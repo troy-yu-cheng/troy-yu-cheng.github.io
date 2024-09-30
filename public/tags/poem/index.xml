@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Poem on TroyCheng</title>
-    <link>https://troy-yu-cheng.github.io/tags/poem/</link>
+    <link>http://localhost:1313/tags/poem/</link>
     <description>Recent content in Poem on TroyCheng</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jan 1915 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://troy-yu-cheng.github.io/tags/poem/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/poem/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Road Not Taken</title>
-      <link>https://troy-yu-cheng.github.io/en/1915/01/01/road-not-taken/</link>
+      <link>http://localhost:1313/en/1915/01/01/road-not-taken/</link>
       <pubDate>Fri, 01 Jan 1915 00:00:00 +0000</pubDate>
-      <guid>https://troy-yu-cheng.github.io/en/1915/01/01/road-not-taken/</guid>
+      <guid>http://localhost:1313/en/1915/01/01/road-not-taken/</guid>
       <description>&lt;p&gt;Two roads diverged in a yellow wood,&lt;br&gt;&#xA;And sorry I could not travel both&lt;br&gt;&#xA;And be one traveler, long I stood&lt;br&gt;&#xA;And looked down one as far as I could&lt;br&gt;&#xA;To where it bent in the undergrowth;&lt;/p&gt;&#xA;&lt;p&gt;Then took the other, as just as fair,&lt;br&gt;&#xA;And having perhaps the better claim,&lt;br&gt;&#xA;Because it was grassy and wanted wear;&lt;br&gt;&#xA;Though as for that the passing there&lt;br&gt;&#xA;Had worn them really about the same,&lt;/p&gt;</description>
     </item>
   </channel>

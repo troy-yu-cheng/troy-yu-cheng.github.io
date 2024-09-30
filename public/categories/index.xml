@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on TroyCheng</title>
-    <link>https://troy-yu-cheng.github.io/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on TroyCheng</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://troy-yu-cheng.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https://troy-yu-cheng.github.io/categories/test/</link>
+      <link>http://localhost:1313/categories/test/</link>
       <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://troy-yu-cheng.github.io/categories/test/</guid>
+      <guid>http://localhost:1313/categories/test/</guid>
       <description></description>
     </item>
     <item>
       <title>Classical</title>
-      <link>https://troy-yu-cheng.github.io/categories/classical/</link>
+      <link>http://localhost:1313/categories/classical/</link>
       <pubDate>Thu, 01 Oct 1925 00:00:00 +0000</pubDate>
-      <guid>https://troy-yu-cheng.github.io/categories/classical/</guid>
+      <guid>http://localhost:1313/categories/classical/</guid>
       <description></description>
     </item>
   </channel>

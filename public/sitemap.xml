@@ -2,70 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://troy-yu-cheng.github.io/en/</loc>
+    <loc>http://localhost:1313/en/</loc>
     <lastmod>2024-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://troy-yu-cheng.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://troy-yu-cheng.github.io/en/myavatar/</loc>
+    <loc>http://localhost:1313/en/myavatar/</loc>
     <lastmod>2024-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://troy-yu-cheng.github.io/en/about/</loc>
+    <loc>http://localhost:1313/en/about/</loc>
     <lastmod>2024-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://troy-yu-cheng.github.io/cn/</loc>
+    <loc>http://localhost:1313/cn/</loc>
     <lastmod>2024-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://troy-yu-cheng.github.io/cn/about/</loc>
+    <loc>http://localhost:1313/cn/about/</loc>
     <lastmod>2024-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://troy-yu-cheng.github.io/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2024-09-23T02:27:58-04:00</lastmod>
   </url><url>
-    <loc>https://troy-yu-cheng.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://troy-yu-cheng.github.io/tags/article/</loc>
+    <loc>http://localhost:1313/tags/article/</loc>
     <lastmod>2024-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://troy-yu-cheng.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://troy-yu-cheng.github.io/tags/english/</loc>
+    <loc>http://localhost:1313/tags/english/</loc>
     <lastmod>2024-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://troy-yu-cheng.github.io/en/posts/</loc>
+    <loc>http://localhost:1313/en/posts/</loc>
     <lastmod>2024-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://troy-yu-cheng.github.io/en/2024/09/23/second-post/</loc>
+    <loc>http://localhost:1313/en/2024/09/23/second-post/</loc>
     <lastmod>2024-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://troy-yu-cheng.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://troy-yu-cheng.github.io/categories/test/</loc>
+    <loc>http://localhost:1313/categories/test/</loc>
     <lastmod>2024-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://troy-yu-cheng.github.io/cn/2021/01/07/first-post-cn/</loc>
+    <loc>http://localhost:1313/cn/2021/01/07/first-post-cn/</loc>
     <lastmod>2021-01-07T13:42:27-05:00</lastmod>
   </url><url>
-    <loc>https://troy-yu-cheng.github.io/cn/posts/</loc>
+    <loc>http://localhost:1313/cn/posts/</loc>
     <lastmod>2021-01-07T13:42:27-05:00</lastmod>
   </url><url>
-    <loc>https://troy-yu-cheng.github.io/categories/classical/</loc>
+    <loc>http://localhost:1313/categories/classical/</loc>
     <lastmod>1925-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://troy-yu-cheng.github.io/tags/prose/</loc>
+    <loc>http://localhost:1313/tags/prose/</loc>
     <lastmod>1925-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://troy-yu-cheng.github.io/cn/1925/10/01/beiying/</loc>
+    <loc>http://localhost:1313/cn/1925/10/01/beiying/</loc>
     <lastmod>1925-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://troy-yu-cheng.github.io/tags/poem/</loc>
+    <loc>http://localhost:1313/tags/poem/</loc>
     <lastmod>1915-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://troy-yu-cheng.github.io/en/1915/01/01/road-not-taken/</loc>
+    <loc>http://localhost:1313/en/1915/01/01/road-not-taken/</loc>
     <lastmod>1915-01-01T00:00:00+00:00</lastmod>
   </url>
 </urlset>
